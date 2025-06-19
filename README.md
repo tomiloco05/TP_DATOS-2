@@ -1,4 +1,4 @@
-# TP_DATOS-2
+
 
 Proyecto de ejemplo para un sistema de chat utilizando **Spring Boot** y **Angular**.
 
@@ -28,3 +28,5 @@ ng serve
 ```
 
 El frontend se servirá en `http://localhost:4200`.
+=======
+This project is licensed under the MIT License. See the LICENSE file for details.
